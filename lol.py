@@ -1,1 +1,2 @@
-Print('PULL MARO, IDHAR UDHAR MAT DEKHO')
+print('PULL MARO, IDHAR UDHAR MAT DEKHO')
+print('Thankyou')
